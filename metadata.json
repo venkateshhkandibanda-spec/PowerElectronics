@@ -1,0 +1,6 @@
+{
+  "name": "Power Electronics Circuit Studio",
+  "description": "Interactive Power Electronics Circuit Simulation for Diode (DBR) and Thyristor (TCR) Rectifiers with visible circuit wiring, freewheeling diode switching, 0°-360° waveform sweep, and academic analytics by Venkateshh Kandibanda [24EE10020].",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
